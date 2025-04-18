@@ -1,0 +1,14 @@
+{
+  "name": "stl-testing",
+  "version": "1.0.0",
+  "description": "Test runner for STL custom module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vishwas Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "STL": "git+https://github.com/vishwas411/STL.git"
+  }
+}
